@@ -8,3 +8,5 @@ Qt版本为5.9.0，linux版本为乌班图18.04
 作者QQ：919371374
 
 注解：https://blog.csdn.net/weixin_40393500
+      基于epoll和Qt的聊天室 
+
